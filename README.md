@@ -5,10 +5,7 @@ A data analysis project exploring pizza sales performance using **SQL Server** a
 
 ## 📊 Dashboard Preview
 
-![Pizza Sales Dashboard](dashboard.png)
-
 <img width="1161" height="627" alt="image" src="https://github.com/user-attachments/assets/1738e95c-7f75-4592-99af-d7bd1ca02b07" />
-
 
 ## 🎯 Objective
 
@@ -147,6 +144,5 @@ ORDER BY Total_Pizza_Sold ASC
 
 ## 📝 Notes
 
-> This is a guided practice project built to strengthen SQL querying and Excel dashboard skills. Data source and tutorial reference: [YouTube - Data Tutorials]
+> This is a guided practice project built to strengthen SQL querying and Excel dashboard skills.
 
----
